@@ -1,1 +1,3 @@
-There are two branches because of branches conflicts one is main which contains <b>Task 1</b> and TASK-2 for <b>Task 2</b>
+There are two branches because of branches conflicts:
+First one , is main branch which contains <b>Task 1</b> which is Rock Paper Scissor Game
+Second one , is TASK-2 branch which contains <b>Task 2</b> which is Voice Recorder
